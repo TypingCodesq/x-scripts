@@ -6,9 +6,9 @@ const gs = Geist({ variable: "--font-geist-sans", subsets: ["latin"] })
 const gm = Geist_Mono({ variable: "--font-geist-mono", subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "X Script — Find Roblox Scripts",
+  title: "X Script — #1",
   description:
-    "Browse and search thousands of Roblox scripts from ScriptBlox and RScripts. Find game scripts with one click.",
+    "Search for your favorite scripts here..",
   icons: {
     icon: "https://i.ibb.co/cKmbdG4K/image.png",
     apple: "https://i.ibb.co/cKmbdG4K/image.png",
