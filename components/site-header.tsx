@@ -1,7 +1,7 @@
 import { Dc } from "@/components/discord-icon"
 
 const LOGO = "https://i.ibb.co/cKmbdG4K/image.png"
-const DC_LINK = "https://discord.gg/your-invite"
+const DC_LINK = "https://discord.gg/Catw7XmZQp"
 
 export function SiteHeader() {
   return (
